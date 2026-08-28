@@ -1,0 +1,12 @@
+# This repository intentionally publishes only the reviewed, hand-written files
+# listed below. Device captures, proprietary payloads, third-party source trees,
+# downloaded archives, and local build products remain private and untracked.
+*
+!.gitignore
+!.gitattributes
+!README.md
+!enable_gpu.sh
+!flutter_gpu_preflight.sh
+!restore_gpu.sh
+!rk3562_gpu_flutter.sh
+!mali_egl_getdisplay_compat.c
