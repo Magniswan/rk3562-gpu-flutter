@@ -94,8 +94,8 @@ workspace 配置，因此不直接使用。
 - 锁定与 Dart 3.6 兼容的依赖版本。
 - 对目标 runner 没有实现的 `url_launcher` 外链能力显示明确“不支持”，不得伪造成功。
 
-Flutter SDK 固定提交为 `cb4b5fff73850b2e42bd4de7cb9a4310a78ac40d`，engine
-固定提交为 `17025dd88227cd9532c33fa78f5250d548d87e9a`。bundle、engine 和 runner
+Flutter framework 固定提交为 `17025dd88227cd9532c33fa78f5250d548d87e9a`，engine
+固定提交为 `cb4b5fff73850b2e42bd4de7cb9a4310a78ac40d`。bundle、engine 和 runner
 不允许跨版本混用。
 
 ## AMR 结构
